@@ -1,6 +1,6 @@
 # Agent IA Pac-Man
 
-## 📌 Description
+## Description
 
 Ce projet consiste à développer un agent autonome capable de jouer à Pac-Man dans un environnement incertain et partiellement observable.
 
@@ -8,7 +8,7 @@ L’objectif est de concevoir un système de prise de décision basé sur des in
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 
 * Modéliser l’environnement de Pac-Man comme un problème de décision
 * Gérer l’incertitude et l’observabilité partielle
@@ -17,7 +17,7 @@ L’objectif est de concevoir un système de prise de décision basé sur des in
 
 ---
 
-## 🧠 Approche
+## Approche
 
 L’agent repose sur des méthodes de recherche heuristique et d’évaluation d’états.
 
@@ -33,7 +33,7 @@ L’agent repose sur des méthodes de recherche heuristique et d’évaluation d
 
 ---
 
-## ⚙️ Technologies
+## Technologies
 
 * Java
 * Programmation orientée objet
@@ -41,7 +41,7 @@ L’agent repose sur des méthodes de recherche heuristique et d’évaluation d
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 * Agent Pac-Man autonome
 * Prise de décision en environnement partiellement observable
@@ -50,7 +50,7 @@ L’agent repose sur des méthodes de recherche heuristique et d’évaluation d
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 L’agent est capable de :
 
@@ -60,7 +60,7 @@ L’agent est capable de :
 
 ---
 
-## 💡 Apports du projet
+## Apports du projet
 
 * Compréhension de la prise de décision sous incertitude
 * Implémentation d’une IA basée sur des heuristiques
@@ -68,7 +68,7 @@ L’agent est capable de :
 
 ---
 
-## 📂 Structure du projet
+## Structure du projet
 
 ```
 PacmanAgent/
@@ -83,7 +83,7 @@ PacmanAgent/
 
 ---
 
-## 🚀 Lancer le projet
+## Lancer le projet
 
 ### Prérequis
 
@@ -92,7 +92,7 @@ PacmanAgent/
 
 ---
 
-### ▶️ Exécution
+### Exécution
 
 1. Cloner le dépôt :
 ```
@@ -110,7 +110,7 @@ PacmanAgent/
    java -cp bin logic.PacManLauncher
 ```
 
-4. ⚠️ En cas de problème lors de la compilation, exécuter cette ligne de code à la place puis lancer le programme (étape 3) :
+4. En cas de problème lors de la compilation, exécuter cette ligne de code à la place puis lancer le programme (étape 3) :
 
 ```
 javac -d bin src/data/*.java src/logic/*.java src/view/*.java  
